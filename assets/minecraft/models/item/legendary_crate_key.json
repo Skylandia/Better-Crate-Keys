@@ -1,0 +1,6 @@
+{
+	"parent": "minecraft:item/crate_key",
+	"textures": {
+		"layer0": "minecraft:item/legendary_key"
+	}
+}
